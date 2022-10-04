@@ -1,4 +1,10 @@
+
 ### Hi there 👋
+
+Currently learning Rust, Linux Kernel Development and Reverse Engeneering.
+I like C, C++, python and Rust.
+
+I like vim 😳
 
 <!--
 **sulyak/sulyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
