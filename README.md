@@ -1,6 +1,9 @@
 
 ### Hi there 👋
 
+I'm Rayner.
+Computer Science Student @ Fluminense Federal University.
+
 Currently learning Rust, Linux Kernel Development and Reverse Engeneering.
 I like C, C++, python and Rust.
 
